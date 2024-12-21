@@ -6,12 +6,12 @@
 
 ### 微信赞助
 
-<img src="https://cdn.jsdelivr.net/gh/Vanisper/sponsors@main/assets/wechat-pay.png" alt="wechat-pay" width="360" />
+<img src="https://fastly.jsdelivr.net/gh/Vanisper/sponsors@main/assets/wechat-pay.png" alt="wechat-pay" width="360" />
 
 ### 赞助面板
 
 <p align="center">
   <a href="https://github.com/Vanisper/sponsors">
-    <img alt="sponsors" src="https://cdn.jsdelivr.net/gh/Vanisper/Vanisper@main/sponsors.svg"/>
+    <img alt="sponsors" src="https://fastly.jsdelivr.net/gh/Vanisper/Vanisper@main/sponsors.svg"/>
   </a>
 </p>
