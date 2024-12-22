@@ -7,16 +7,20 @@
 ### 直接赞助
 
 <p align="center">
-  <div style="display: flex; justify-content: space-around; font-size: 14px; font-weight: bold; color: #555;">
-    <div style="display: flex; flex-direction: column; align-items: center; justify-content: space-around;">
-      <img src="https://fastly.jsdelivr.net/gh/Vanisper/sponsors@main/assets/wechat-pay.png" alt="wechat-pay" height="360" />
-      <span>微信赞赏</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; justify-content: space-around;">
-      <img src="https://fastly.jsdelivr.net/gh/Vanisper/sponsors@main/assets/alipay.png" alt="alipay" height="360" />
-      <span>支付宝</span>
-    </div>
-  </div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://fastly.jsdelivr.net/gh/Vanisper/sponsors@main/assets/wechat-pay.png" alt="wechat-pay" height="360" />
+        <p align="center">微信</p>
+      </td>
+      <td>
+        <img src="https://fastly.jsdelivr.net/gh/Vanisper/sponsors@main/assets/alipay.png" alt="alipay" height="360" />
+        <p align="center">支付宝</p>
+      </td>
+    </tr>
+    <tr>
+    </tr>
+  </table>
 </p>
 
 ### 赞助面板
