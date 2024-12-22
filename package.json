@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "sponsorkit -f"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "consola": "^3.3.0",
+    "sponsorkit": "^0.16.2"
+  }
+}
