@@ -1,5 +1,6 @@
 {
   "type": "module",
+  "version": "1.0.0",
   "scripts": {
     "build": "sponsorkit -f",
     "purge": "curl https://purge.jsdelivr.net/gh/Vanisper/sponsors/sponsors.svg && curl https://purge.jsdelivr.net/gh/Vanisper/sponsors/sponsors.png"
