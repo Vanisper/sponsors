@@ -1,7 +1,8 @@
 {
   "type": "module",
   "scripts": {
-    "build": "sponsorkit -f"
+    "build": "sponsorkit -f",
+    "purge": "curl https://purge.jsdelivr.net/gh/Vanisper/sponsors/sponsors.svg && curl https://purge.jsdelivr.net/gh/Vanisper/sponsors/sponsors.png"
   },
   "devDependencies": {
     "@types/node": "^22.10.2",
