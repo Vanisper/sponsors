@@ -14,5 +14,40 @@
     "createdAt": "2024-12-22T05:59:50+08:00",
     "isOneTime": true,
     "provider": "WeChat"
+  },
+  {
+    "sponsor": {
+      "type": "User",
+      "login": "asennaggmkl",
+      "name": "阿森纳",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/178490476",
+      "linkUrl": "https://github.com/asennaggmkl",
+      "avatarBuffer": "UklGRvYBAABXRUJQVlA4IOoBAAAQEgCdASp4AHgAPm0ylkYkIyIhLhv4OIANiWMA09YOwl/x32AVWtcA/RP0SfUB+s3AgegB0rmQ5+PD3z1PTQ20Mki/XYVbXivRaF9zNPE9UJN30eFigUIU7XGVKC7Etc7AZQRc74ZNYvwk4kampxUeDCjfWwXoX8DK9tI/dGJ/pPFseWp+xxa+SlT5Vuf3u9DxEU3pbOOxdUgA/vsh793nwCNeR0I9ZrpzK+hmWWTaOPy2TcamT6xLZzkB6SID4e3CEAtP5W0yWZw1nRzpy3iWuu1b0UNpwuvs2KACtGwYVFLT4A75wZ7xdvH++xtsM+/1PLIp7+Mbz7O9bRmHA4+sDQWhr8ZoqQTDkUMiu/4GE7zy8VYGMQ+VJ6iQ60nfFh5qnD8PyOzeRX88M8e6aDvWL5NJOIvF6VWi0qyqlYLyOO/ssPlczMuZyj5IbJNKlS4gozP3bzXGhBxk7l1cpBQQNUu3VOG9cKhIgPh7cLdP083667n/Pi+eEFIYwE3HdIbJCd6PqH7uk8FAfk7s81HImbbDihLg5xq5ked1Q1FM0sUkUjpIO4Gk2G0gNG5VcGiNMPXHPCi7HZk3Nxs4OGSl4FwLU51WkNP9AYTiEzWEwtaAOeo830qW3J7mQv36kdYVlJ3AAAAAAAAA"
+    },
+    "monthlyDollars": 1.237142857142857,
+    "privacyLevel": "PUBLIC",
+    "tierName": "WeChat",
+    "createdAt": "2025-01-03T10:03:16+08:00",
+    "isOneTime": true,
+    "provider": "WeChat",
+    "raw": {
+      "sponsors": [
+        {
+          "cny": 6.66,
+          "description": "必须吃辣条",
+          "createdAt": "2025-01-03T10:03:16+08:00"
+        },
+        {
+          "cny": 1,
+          "description": "ComeOnMakeMoney",
+          "createdAt": "2025-01-03T11:16:32+08:00"
+        },
+        {
+          "cny": 1,
+          "description": "您好 咨询问题",
+          "createdAt": "2025-01-03T11:16:49+08:00"
+        }
+      ]
+    }
   }
 ]
