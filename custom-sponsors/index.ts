@@ -52,6 +52,21 @@ const sponsors: Sponsorship[] = [
       ],
     }
   },
+  {
+    sponsor: {
+      type: "User",
+      login: "ligouhai",
+      name: "LegalHigh",
+      avatarUrl: "https://avatars.githubusercontent.com/u/20986958",
+      linkUrl: "https://github.com/ligouhai",
+    },
+    monthlyDollars: convertCNYToUSD(20),
+    privacyLevel: "PUBLIC",
+    tierName: "WeChat",
+    createdAt: "2025-01-09T16:01:00+08:00",
+    isOneTime: true,
+    provider: "WeChat",
+  },
 ];
 
 export default sponsors;
