@@ -67,6 +67,21 @@ const sponsors: Sponsorship[] = [
     isOneTime: true,
     provider: "WeChat",
   },
+  {
+    sponsor: {
+      type: "User",
+      login: "ModyQyW",
+      name: "Panpan",
+      avatarUrl: "https://avatars.githubusercontent.com/u/31850793",
+      linkUrl: "https://github.com/ModyQyW",
+    },
+    monthlyDollars: convertCNYToUSD(196),
+    privacyLevel: "PUBLIC",
+    tierName: "WeChat",
+    createdAt: "2025-01-11T12:05:00+08:00",
+    isOneTime: true,
+    provider: "WeChat",
+  },
 ];
 
 export default sponsors;
