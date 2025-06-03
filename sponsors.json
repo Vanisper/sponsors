@@ -81,5 +81,30 @@
     "createdAt": "2025-01-11T12:05:00+08:00",
     "isOneTime": true,
     "provider": "WeChat"
+  },
+  {
+    "sponsor": {
+      "type": "User",
+      "login": "hclike",
+      "name": "Hclike",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29789698",
+      "linkUrl": "https://github.com/hclike",
+      "avatarBuffer": "UklGRtoCAABXRUJQVlA4IM4CAACQFgCdASp4AHgAPm0skkWkIqGYvbQAQAbEoA0uYa4D9j/NyZw7E+v6TP87u5vMB/AP4f6rvoA/V7VAP4B1NWREeaJo/MAR+plF/ANiR4AGJjqaCEkpn0RG34N+v0qQoj+VT4vm8KknX1K6NNpECNJju/dtNOZh71UlobOyF9KJj+0A8AlqNDk7/8COcE1AZan/XViO/SJB5pWetfoSGLEq8o7OxQ7d2kWRLGqxUinabGTQQyaGAQ2/pXMzzAAA/vsh8L6s0q+v3xZI5T3Hf0pFGgYO3WjMRBtZpdtkOiH42duT9c8oahhPaEqfCX8PnzLIML8tuHB3VEqWYH5FO+TxR68mpudguvuvbsNtx1fVmlX2BJhz/CjXX1ozFbx3va78en3Zx9onO+x32b3+0rIhBvpc7i9Uh6ryFAJ3MIot0m1EuCTBuoCji/tze/2laBA9IMeGtQxwY5vyy1LypAz+WBSZnKgowE+rCVz4jwy6xYvQH4WABnhQhpZGpcktwqX8mZrneQOOdDnP3EWTdVK9PW4BdGyL1+PTdrHMfPwSj6evA5aLZtl9QMKRiJ9mF23AhcUwbT8H5R7xzP5fD1KYxIj3qGggkM0WTJXfAutDQhWZUV2pVf+hAibjXX1p3+z78voQAfBswCz1heAwSqcTKcgZabvdMlL411uAwyZy/hwHmVH51dxcaTkzoFRcZG56JwDCNqQN+lT2NgWS8A6DIc1dDTGBkSeekhAKnuPVMUEqmbujQBG/bSLbMHzCusKCqkq1tZ977jh85/+Z/a+UaY0niODU2wd/v5gZ9idyHB0OOfyg/i+lnx1YgJMJ4MlBaUyNQvD9v+J4pn8zx4zTl9MVBh3rbpKep5lKpeJ30YUmyzxsVi6vAKPWIYYnda+X/+0p+jtmn/V3Knxtrfi2UEYb2IOiCZGyqs15kGoneNGOG15kIQAAAAalgAAA"
+    },
+    "monthlyDollars": 14.285714285714286,
+    "privacyLevel": "PUBLIC",
+    "tierName": "WeChat",
+    "createdAt": "2025-06-03T11:00:46+08:00",
+    "isOneTime": true,
+    "provider": "WeChat",
+    "raw": {
+      "sponsors": [
+        {
+          "cny": 100,
+          "description": "hclike 支持一下",
+          "createdAt": "2025-06-03T11:00:46+08:00"
+        }
+      ]
+    }
   }
 ]
