@@ -82,6 +82,30 @@ const sponsors: Sponsorship[] = [
     isOneTime: true,
     provider: "WeChat",
   },
+  {
+    sponsor: {
+      type: "User",
+      login: "hclike",
+      name: "Hclike",
+      avatarUrl: "https://avatars.githubusercontent.com/u/29789698",
+      linkUrl: "https://github.com/hclike",
+    },
+    monthlyDollars: convertCNYToUSD(100),
+    privacyLevel: "PUBLIC",
+    tierName: "WeChat",
+    createdAt: "2025-06-03T11:00:46+08:00",
+    isOneTime: true,
+    provider: "WeChat",
+    raw: {
+      sponsors: [
+        {
+          cny: 100,
+          description: "hclike 支持一下",
+          createdAt: "2025-06-03T11:00:46+08:00",
+        },
+      ],
+    }
+  },
 ];
 
 export default sponsors;
