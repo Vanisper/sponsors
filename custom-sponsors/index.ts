@@ -75,12 +75,26 @@ const sponsors: Sponsorship[] = [
       avatarUrl: "https://avatars.githubusercontent.com/u/31850793",
       linkUrl: "https://github.com/ModyQyW",
     },
-    monthlyDollars: convertCNYToUSD(196),
+    monthlyDollars: convertCNYToUSD(196 + 100),
     privacyLevel: "PUBLIC",
     tierName: "WeChat",
-    createdAt: "2025-01-11T12:05:00+08:00",
+    createdAt: "2025-01-11T12:05:03+08:00",
     isOneTime: true,
     provider: "WeChat",
+    raw: {
+      sponsors: [
+        {
+          cny: 196,
+          description: "赞助开源",
+          createdAt: "2025-01-11T12:05:03+08:00",
+        },
+        {
+          cny: 100,
+          description: "开源赞助",
+          createdAt: "2025-07-08T18:35:13+08:00",
+        },
+      ],
+    }
   },
   {
     sponsor: {
