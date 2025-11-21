@@ -6,8 +6,8 @@
     "purge": "curl https://purge.jsdelivr.net/gh/Vanisper/sponsors/sponsors.svg && curl https://purge.jsdelivr.net/gh/Vanisper/sponsors/sponsors.png"
   },
   "devDependencies": {
-    "@types/node": "^22.10.2",
-    "consola": "^3.3.0",
-    "sponsorkit": "^0.16.2"
+    "@types/node": "^22.19.1",
+    "consola": "^3.4.2",
+    "sponsorkit": "^17.0.0"
   }
 }
