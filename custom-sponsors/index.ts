@@ -120,6 +120,30 @@ const sponsors: Sponsorship[] = [
       ],
     }
   },
+  {
+    sponsor: {
+      type: "User",
+      login: "ruichengping",
+      name: "wuming",
+      avatarUrl: "https://avatars.githubusercontent.com/u/21974507",
+      linkUrl: "https://github.com/ruichengping",
+    },
+    monthlyDollars: convertCNYToUSD(30),
+    privacyLevel: "PUBLIC",
+    tierName: "WeChat",
+    createdAt: "2025-12-19T14:07:40+08:00",
+    isOneTime: true,
+    provider: "WeChat",
+    raw: {
+      sponsors: [
+        {
+          cny: 30,
+          description: "",
+          createdAt: "2025-12-19T14:07:40+08:00",
+        },
+      ],
+    }
+  },
 ];
 
 export default sponsors;
