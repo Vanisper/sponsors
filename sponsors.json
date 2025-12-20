@@ -120,5 +120,30 @@
         }
       ]
     }
+  },
+  {
+    "sponsor": {
+      "type": "User",
+      "login": "ruichengping",
+      "name": "wuming",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/21974507",
+      "linkUrl": "https://github.com/ruichengping",
+      "avatarBuffer": "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"
+    },
+    "monthlyDollars": 4.285714285714286,
+    "privacyLevel": "PUBLIC",
+    "tierName": "WeChat",
+    "createdAt": "2025-12-19T14:07:40+08:00",
+    "isOneTime": true,
+    "provider": "WeChat",
+    "raw": {
+      "sponsors": [
+        {
+          "cny": 30,
+          "description": "",
+          "createdAt": "2025-12-19T14:07:40+08:00"
+        }
+      ]
+    }
   }
 ]
